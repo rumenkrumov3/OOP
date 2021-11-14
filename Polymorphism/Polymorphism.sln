@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehicles", "Polymorphism\Vehicles.csproj", "{881A8C8E-3F8A-4442-A5DA-D89657697FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raiding", "Raiding\Raiding.csproj", "{423B2873-4DCD-48D1-BE8E-2777F7DE68CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildFarm", "WildFarm\WildFarm.csproj", "{8705610D-6334-453C-9052-7EA6C7FC45A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{881A8C8E-3F8A-4442-A5DA-D89657697FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881A8C8E-3F8A-4442-A5DA-D89657697FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881A8C8E-3F8A-4442-A5DA-D89657697FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881A8C8E-3F8A-4442-A5DA-D89657697FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{423B2873-4DCD-48D1-BE8E-2777F7DE68CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423B2873-4DCD-48D1-BE8E-2777F7DE68CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423B2873-4DCD-48D1-BE8E-2777F7DE68CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423B2873-4DCD-48D1-BE8E-2777F7DE68CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8705610D-6334-453C-9052-7EA6C7FC45A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8705610D-6334-453C-9052-7EA6C7FC45A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8705610D-6334-453C-9052-7EA6C7FC45A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8705610D-6334-453C-9052-7EA6C7FC45A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44AD73D4-7D6D-4C81-8BBF-8361ABFB3E14}
+	EndGlobalSection
+EndGlobal

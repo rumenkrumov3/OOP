@@ -1,0 +1,13 @@
+D:\GIT\OOPModule\OOP\Polymorphism\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csprojAssemblyReference.cache
+D:\GIT\OOPModule\OOP\Polymorphism\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csproj.CoreCompileInputs.cache
+D:\GIT\OOPModule\OOP\Polymorphism\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfoInputs.cache
+D:\GIT\OOPModule\OOP\Polymorphism\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfo.cs
+D:\GIT\OOPModule\OOP\Polymorphism\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.exe
+D:\GIT\OOPModule\OOP\Polymorphism\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.deps.json
+D:\GIT\OOPModule\OOP\Polymorphism\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.json
+D:\GIT\OOPModule\OOP\Polymorphism\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.dev.json
+D:\GIT\OOPModule\OOP\Polymorphism\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.dll
+D:\GIT\OOPModule\OOP\Polymorphism\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.pdb
+D:\GIT\OOPModule\OOP\Polymorphism\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.dll
+D:\GIT\OOPModule\OOP\Polymorphism\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.pdb
+D:\GIT\OOPModule\OOP\Polymorphism\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.genruntimeconfig.cache

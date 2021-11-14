@@ -1,0 +1,13 @@
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.exe
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.deps.json
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.json
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.dev.json
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.csprojAssemblyReference.cache
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfo.cs
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.genruntimeconfig.cache

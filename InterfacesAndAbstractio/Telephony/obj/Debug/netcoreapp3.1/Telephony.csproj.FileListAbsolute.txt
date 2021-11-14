@@ -1,0 +1,13 @@
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\Telephony\obj\Debug\netcoreapp3.1\Telephony.csprojAssemblyReference.cache
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache

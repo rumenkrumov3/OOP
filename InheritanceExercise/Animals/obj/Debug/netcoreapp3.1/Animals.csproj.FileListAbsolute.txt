@@ -1,0 +1,13 @@
+D:\GIT\OOPModule\OOP\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\GIT\OOPModule\OOP\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\GIT\OOPModule\OOP\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\GIT\OOPModule\OOP\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\GIT\OOPModule\OOP\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\GIT\OOPModule\OOP\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\GIT\OOPModule\OOP\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+D:\GIT\OOPModule\OOP\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\GIT\OOPModule\OOP\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\GIT\OOPModule\OOP\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\GIT\OOPModule\OOP\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\GIT\OOPModule\OOP\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\GIT\OOPModule\OOP\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

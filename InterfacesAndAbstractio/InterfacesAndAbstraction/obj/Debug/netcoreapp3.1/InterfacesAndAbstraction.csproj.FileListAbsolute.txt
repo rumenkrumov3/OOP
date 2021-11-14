@@ -1,0 +1,13 @@
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfacesAndAbstraction.exe
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfacesAndAbstraction.deps.json
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfacesAndAbstraction.runtimeconfig.json
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfacesAndAbstraction.runtimeconfig.dev.json
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfacesAndAbstraction.dll
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfacesAndAbstraction.pdb
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfacesAndAbstraction.csprojAssemblyReference.cache
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfacesAndAbstraction.csproj.CoreCompileInputs.cache
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfacesAndAbstraction.AssemblyInfoInputs.cache
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfacesAndAbstraction.AssemblyInfo.cs
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfacesAndAbstraction.dll
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfacesAndAbstraction.pdb
+D:\GIT\OOPModule\OOP\InterfacesAndAbstractio\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfacesAndAbstraction.genruntimeconfig.cache

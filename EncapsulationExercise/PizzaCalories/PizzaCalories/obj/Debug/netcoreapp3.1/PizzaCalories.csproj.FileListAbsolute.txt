@@ -1,0 +1,13 @@
+D:\GIT\OOPModule\OOP\EncapsulationExercise\PizzaCalories\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.exe
+D:\GIT\OOPModule\OOP\EncapsulationExercise\PizzaCalories\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.deps.json
+D:\GIT\OOPModule\OOP\EncapsulationExercise\PizzaCalories\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.json
+D:\GIT\OOPModule\OOP\EncapsulationExercise\PizzaCalories\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.dev.json
+D:\GIT\OOPModule\OOP\EncapsulationExercise\PizzaCalories\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.dll
+D:\GIT\OOPModule\OOP\EncapsulationExercise\PizzaCalories\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.pdb
+D:\GIT\OOPModule\OOP\EncapsulationExercise\PizzaCalories\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csprojAssemblyReference.cache
+D:\GIT\OOPModule\OOP\EncapsulationExercise\PizzaCalories\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csproj.CoreCompileInputs.cache
+D:\GIT\OOPModule\OOP\EncapsulationExercise\PizzaCalories\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfoInputs.cache
+D:\GIT\OOPModule\OOP\EncapsulationExercise\PizzaCalories\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfo.cs
+D:\GIT\OOPModule\OOP\EncapsulationExercise\PizzaCalories\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.dll
+D:\GIT\OOPModule\OOP\EncapsulationExercise\PizzaCalories\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.pdb
+D:\GIT\OOPModule\OOP\EncapsulationExercise\PizzaCalories\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.genruntimeconfig.cache
